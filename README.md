@@ -6,7 +6,6 @@ This project helps users add, edit, delete, mark as done, and undo tasks easily.
 ✨ Features
 
 ➕ Add new tasks
-
 ✏️ Edit existing tasks
 
 ❌ Delete tasks
