@@ -52,6 +52,7 @@ HTML / CSS
 
 📱 Improve responsive UI
 
+
 🤝 Contributing
 
 Pull requests are welcome!
